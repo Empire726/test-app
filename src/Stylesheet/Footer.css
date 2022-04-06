@@ -1,0 +1,16 @@
+.footer{
+    bottom: 0;
+    left: 0;
+    display: flex;  
+    justify-content: space-between;
+    background-color: navy;
+}
+.footer a{
+    color: white;
+    padding: 12px;
+    justify-content: space-around;
+    font-size: 20px;
+    text-decoration: none;
+    margin: 4px;
+    box-shadow: 1px 4px 5px  3px rgb(135, 223, 20);
+}

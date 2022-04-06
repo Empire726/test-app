@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;1,700&family=Open+Sans:ital,wght@1,300&family=Roboto+Condensed&family=Zen+Antique&display=swap');
+*{
+  height: auto;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body {
+  height: auto;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  background-image:url(../public//download.png) ;
+  /* background-repeat: no-repeat; */
+}
